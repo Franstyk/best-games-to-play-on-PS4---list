@@ -2,4 +2,4 @@
 
 *This is in my opinion*
 
-#Open the exclusives.txt file
+**_Open the exclusives.txt file_**
